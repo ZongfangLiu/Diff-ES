@@ -1,5 +1,6 @@
-# Diff-ES
-Stage-Wise Structural Diffusion Pruning via Evolutionary Search.
+# Diff-ES: Stage-Wise Structural Diffusion Pruning via Evolutionary Search.
+
+- [ArXiv Preprint](https://arxiv.org/abs/2603.05105)
 
 ## Overview
 This repository contains two pruning pipelines:
